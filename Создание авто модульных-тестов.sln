@@ -5,7 +5,9 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Создание авто модульных-тестов\Bank.csproj", "{B4B234D1-9734-4033-8E67-8BC9CA0EA512}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTests", "BankTests\BankTests.csproj", "{0F387397-8821-40A5-9B7D-A19D74C8904F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTestsDebit", "BankTests\BankTestsDebit.csproj", "{0F387397-8821-40A5-9B7D-A19D74C8904F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTestsCredit", "BankTestsCredit\BankTestsCredit.csproj", "{A6128BDB-9A1E-48F0-B02C-18EE0EC18FB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0F387397-8821-40A5-9B7D-A19D74C8904F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F387397-8821-40A5-9B7D-A19D74C8904F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F387397-8821-40A5-9B7D-A19D74C8904F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6128BDB-9A1E-48F0-B02C-18EE0EC18FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6128BDB-9A1E-48F0-B02C-18EE0EC18FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6128BDB-9A1E-48F0-B02C-18EE0EC18FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6128BDB-9A1E-48F0-B02C-18EE0EC18FB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
