@@ -2,7 +2,7 @@
 using System;
 using BankAccountNS;
 
-namespace BankTests
+namespace BankTestsDebit
 {
     [TestClass]
     public class BankAccountTests
